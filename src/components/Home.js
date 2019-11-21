@@ -26,10 +26,10 @@ const Home = () => {
                 <p className="text-light mb-2">This is where you can find information about our projects and servers.</p>
             </div>
             <div style={{ position: "relative" }}>
-                aaaaaaaaaaa
+                moo oooooooo ooo ooo
 
-
-                a
+                oooooooooooo
+                o
             </div>
         </div >
     )

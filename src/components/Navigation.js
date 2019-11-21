@@ -29,9 +29,6 @@ const Navigation = (props) => {
                 <Collapse isOpen={isOpen} navbar>
                     <Nav pills>
                         <NavItem style={{ cursor: "pointer" }}>
-                            <NavLink active={pathname === "/"} onClick={() => { props.history.push("/") }}>Home (temp)</NavLink>
-                        </NavItem>
-                        <NavItem style={{ cursor: "pointer" }}>
                             <NavLink active={pathname === "/Radio"} onClick={() => { props.history.push("/Radio") }}>Radio</NavLink>
                         </NavItem>
 

@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-size: 1.25rem;
+    margin-right: 30px;
+}
+
+.nav-pills .nav-link.active{
+    background-color: #7c7c7c;
+    background: #7c7c7c;
+}

@@ -7,6 +7,7 @@ import Radio from "./components/Radio";
 import Scripts from "./components/Scripts";
 import TPT from "./components/TPT";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./overrides.css";
 
 
 
