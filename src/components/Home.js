@@ -15,7 +15,7 @@ const Home = () => {
             <div className="banner-caption shadow " style={{
                 minHeight: "25vh",
                 width: "100%",
-                background: "#272b30",
+                background: "#3a3f44",
                 display: "flex",
                 flexFlow: "column nowrap",
                 justifyContent: "space-evenly",
